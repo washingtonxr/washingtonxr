@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello world 👋!</h1>
-<h3 align="center">This is Washington Ruan speaking, and I'm a ameture radio operator with the call sign BG5UTN. I'm a lover of life and a technology obsessive. I am passionate about wireless communication, artificial intelligence, business management and other related fields. Under I hope to meet everyone who has a desire to explore and go through the hobby. Thanks.</h3>
+<h3 align="center">This is Washington Ruan speaking, and I'm an ameture radio operator with the call sign BG5UTN. I'm a lover of life and a technology obsessive. I am passionate about wireless communication, artificial intelligence, business management and other related fields. Under I hope to meet everyone who has a desire to explore and go through the hobby. Thanks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile%20views&color=0e75b6&style=flat" alt="washingtonxr" /> </p>
 
