@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on wireless communication filed and love the work
 - 👯 I’m looking to collaborate on **Wireless communication**, **Artifical intelligence**, **Mathematics**, **Physics** and etc.
 - 💬 Ask me about audio signal processing and machine learning
-- 📫 How to reach me: Send me email or reach me on 438.500MHz with BG5UTN
+- 📫 How to reach me: Send me email or CRAC:439.800MHz
 - 😄 Pronouns: :)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr" /></p>
