@@ -31,18 +31,16 @@ I am a technology obsessive driven by the convergence of hardware and software. 
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=washingtonxr&theme=transparent&hide_border=true" width="48%" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile%20views&color=0e75b6&style=flat" alt="washingtonxr" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washingtonxr" alt="washingtonxr" /></a> </p>
 
 ---
 
 ### 📬 Connect with Me
-- **Email:** [Your Email Here]
-- **Radio:** CRAC 439.800 MHz (BG5UTN)
+- **Email:** washingtonxr@gmail.com
+- **RadioFreq.:** CRAC 439.800 MHz (BG5UTN)
 - **Pronouns:** He/Him :)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonxr&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=washingtonxr&" alt="washingtonxr" /></p>
+
