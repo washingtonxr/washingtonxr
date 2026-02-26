@@ -1,32 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Washington Ruan 👋</h1>
+<p align="center">
+  <strong>Amateur Radio Operator (BG5UTN) | Wireless Communications Enthusiast | AI Researcher</strong>
+</p>
 
-<!--
-**washingtonxr/washingtonxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washingtonxr&theme=flat&column=7" alt="trophies" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hello world!</h1>
-<h3 align="center">This's Washington Ruan speaking, and I'm an ameture radio operator with the call sign BG5UTN. I'm a lover of life and a technology obsessive. I am passionate about Wireless Communication(Wi-Fi, LTE, 5G NR, and IoT networks), Artificial Intelligence(ML/DL), Business investment & mgmt., and other related fields. Under I hope to meet everyone who has a desire to explore and go through the hobby. Thanks.</h3>
+### 📡 About Me
+I am a technology obsessive driven by the convergence of hardware and software. My work sits at the intersection of high-frequency physics and modern machine learning. When I'm not optimizing neural networks, you can find me on the airwaves or exploring the nuances of business management.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile%20views&color=0e75b6&style=flat" alt="washingtonxr" /> </p>
+- 🔭 **Current Research:** AI-Based Interference Detection and Suppression in Wireless Communications.
+- ⚡ **Technical Interests:** Wi-Fi/LTE/5G NR architecture, IoT ecosystems, and DSP (Digital Signal Processing).
+- 🧪 **Collaborations:** I'm always open to discussing **Mathematics**, **Physics**, and **AI-driven RF systems**.
+- 🎙️ **Fun Fact:** My signal travels further than my car—catch me on the CRAC frequencies!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washingtonxr" alt="washingtonxr" /></a> </p>
+---
 
-- 🔭 I’m currently working on the topic of "AI-Based Interference Detection and Suppression in Wireless Communications"
-- 👯 I’m looking to collaborate on **Wireless Communication**, **Artifical intelligence**, **Mathematics**, **Physics** and etc.
-- 💬 Ask me about audio signal processing and machine learning
-- 📫 How to reach me: Send me email or CRAC:439.800MHz
-- 😄 Pronouns: :)
+### 🛠 Tech Stack & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Wireless** | LTE, 5G NR, SDR, IoT Protocols |
+| **AI / ML** | PyTorch, TensorFlow, Audio Signal Processing |
+| **Core** | Python, C++, MATLAB, Mathematics |
+| **Interests** | Business Mgmt, Investment, Tech History |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=washingtonxr&" alt="washingtonxr" /></p>
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=washingtonxr&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+- **Email:** [Your Email Here]
+- **Radio:** CRAC 439.800 MHz (BG5UTN)
+- **Pronouns:** He/Him :)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonxr&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+</p>
