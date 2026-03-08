@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile%20views&color=0e75b6&style=flat" alt="washingtonxr" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washingtonxr" alt="washingtonxr" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?washingtonxr=ryo-ma&theme=onedark" alt="xTropy" /></a> </p>
 
 - 🔭 **Current Research:** AI-Based Interference Detection and Suppression in Wireless Communications.
 - ⚡ **Technical Interests:** Wi-Fi/LTE/5G NR architecture, IoT ecosystems, and DSP (Digital Signal Processing).
