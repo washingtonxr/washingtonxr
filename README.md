@@ -1,44 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Washington Ruan 👋</h1>
+<h3 align="center">Amateur Radio Operator (BG5UTN) · Wireless Communications & AI Enthusiast</h3>
 
-<!--
-**washingtonxr/washingtonxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile%20views&color=0e75b6&style=flat" alt="washingtonxr profile views" />
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hello world!</h1>
-<h3 align="center">This's Washington Ruan speaking, and I'm an ameture radio operator with the call sign BG5UTN. I'm a lover of life and a technology obsessive. I am passionate about Wireless Communication(Wi-Fi, LTE, 5G NR, and IoT networks), Artificial Intelligence(ML/DL), Business investment & mgmt., and other related fields. Under I hope to meet everyone who has a desire to explore and go through the hobby. Thanks.</h3>
+I'm Washington Ruan, an amateur radio operator with the call sign **BG5UTN**. I'm a lifelong learner and technology enthusiast, passionate about **Wireless Communications** (Wi-Fi, LTE, 5G NR, and IoT networks), **Artificial Intelligence** (ML/DL), **business investment & management**, and related fields.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile%20views&color=0e75b6&style=flat" alt="washingtonxr" /> </p>
+I hope to connect with people who share the same curiosity and passion for exploration. Thanks for stopping by!
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washingtonxr" alt="washingtonxr" /></a> </p>
-
-- 🔭 **Current Research:** AI-Based Interference Detection and Suppression in Wireless Communications.
+- 🔭 **Current Research:** AI-based interference detection and suppression in wireless communications.
 - ⚡ **Technical Interests:** Wi-Fi/LTE/5G NR architecture, IoT ecosystems, and DSP (Digital Signal Processing).
-- 🧪 **Collaborations:** I'm always open to discussing **Mathematics**, **Physics**, and **AI-driven RF systems**.
-- 🎙️ **Fun Fact:** My signal travels further than my car—catch me on the CRAC frequencies!
+- 🧪 **Open to Collaborations:** Mathematics, Physics, and AI-driven RF systems.
+- 💬 **Ask Me About:** Wireless architecture, DSP, AI for RF, and amateur radio.
+- 🎙️ **Fun Fact:** My signal travels farther than my car — catch me on the CRAC frequencies!
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
+
 | Category | Technologies |
 | :--- | :--- |
 | **Wireless** | LTE, 5G NR, SDR, IoT Protocols |
 | **AI / ML** | PyTorch, TensorFlow, Audio Signal Processing |
 | **Core** | Python, C++, MATLAB, Mathematics |
-| **Interests** | Business Mgmt, Investment, Tech History |
+| **Interests** | Business Management, Investment, Tech History |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=washingtonxr&" alt="washingtonxr" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr GitHub stats" />
+</p>
 
-### 📬 Connect with Me
-- **Email:** washingtonxr@gmail.com
-- **RadioFreq.:** CRAC 439.800 MHz (BG5UTN)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=washingtonxr&locale=en" alt="washingtonxr GitHub streak" />
+</p>
+
+## 📬 Connect with Me
+
+- **Email:** [washingtonxr@gmail.com](mailto:washingtonxr@gmail.com)
+- **Radio Frequency:** CRAC 439.800 MHz (BG5UTN)
 - **Pronouns:** He/Him :)
