@@ -2,12 +2,12 @@
 <h3 align="center">Amateur Radio Operator (BG5UTN) · Wireless Communications & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=PROFILE+VIEWS" alt="washingtonxr profile views" />
+  <img src="https://komarev.com/ghpvc/?username=washingtonxr&label=Profile+views&color=0e75b6&style=flat" alt="washingtonxr profile views" />
 </p>
 
 ## 👨‍💻 About Me
 
-I'm Washington Ruan, an amateur radio operator with the call sign **BG5UTN**. I'm a lifelong learner and technology enthusiast, passionate about **Wireless Communications** (WLAN(Wi-Fi), 4G LTE, 5G NR, and IoT networks), **Artificial Intelligence** (ML/DL), **Business Investment & Management**, and related fields.
+I'm Washington Ruan, an amateur radio operator with the call sign **BG5UTN**. I'm a lifelong learner and technology enthusiast, passionate about **Wireless Communications** (WLAN/Wi-Fi, 4G LTE, 5G NR, and IoT networks), **Artificial Intelligence** (ML/DL), **Business Investment & Management**, and related fields.
 
 I hope to connect with people who share the same curiosity and passion for exploration. Thanks for stopping by!
 
@@ -19,7 +19,7 @@ I hope to connect with people who share the same curiosity and passion for explo
 
 ## 🔬 Research Experience
 
-### 3GPP Protocol Research (LTE / 5G NR)
+### 3GPP Protocol Research (4G LTE / 5G NR)
 - Studied 3GPP protocol architecture across RAN and core networks, including **RRC, NAS, PDCP, RLC, MAC, and PHY** layers.
 - Analyzed key procedures such as random access, scheduling, HARQ, mobility management, and QoS flow / bearer mapping in LTE and 5G NR.
 - Explored AI-assisted interference detection, suppression, and link adaptation in 3GPP-based systems, with simulation and SDR-oriented validation.
@@ -44,11 +44,11 @@ I hope to connect with people who share the same curiosity and passion for explo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr GitHub stats" />
+  <img src="https://gh-stats.com/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=washingtonxr&locale=en" alt="washingtonxr GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=washingtonxr&locale=en" alt="washingtonxr GitHub streak" />
 </p>
 
 ## 📬 Connect with Me
