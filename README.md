@@ -63,5 +63,5 @@ I hope to connect with people who share the same curiosity and passion for explo
 ## 📬 Connect with Me
 
 - **Email:** [washingtonxr@gmail.com](mailto:washingtonxr@gmail.com)
-- **Radio Frequency:** CRAC 439.800 MHz (BG5UTN)
+- **Radio Frequency:** CRAC Listening 439.800 MHz & 438.500 MHz (BG5UTN)
 - **Pronouns:** He/Him :)
