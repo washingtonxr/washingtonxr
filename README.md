@@ -12,9 +12,9 @@ I'm Washington Ruan, an amateur radio operator with the call sign **BG5UTN**. I'
 I hope to connect with people who share the same curiosity and passion for exploration. Thanks for stopping by!
 
 - 🔭 **Current Research:** AI-based interference detection and suppression in wireless communications.
-- ⚡ **Technical Interests:** 3GPP 4G LTE/5G NR protocol stacks, IEEE 802.11 WLAN, IoT ecosystems, and DSP.
-- 🧪 **Open to Collaborations:** Mathematics, Physics, AI-driven RF systems, and protocol-level wireless research.
-- 💬 **Ask Me About:** 3GPP procedures, WLAN MAC/PHY, DSP, AI for RF, and amateur radio.
+- ⚡ **Technical Interests:** 3GPP 4G LTE/5G NR protocol stacks, IEEE 802.11 WLAN, IoT ecosystems, DSP, and Linux kernel/driver development.
+- 🧪 **Open to Collaborations:** Mathematics, Physics, AI-driven RF systems, protocol-level wireless research, and Linux-based wireless/SDR systems.
+- 💬 **Ask Me About:** 3GPP procedures, WLAN MAC/PHY, Linux drivers, FPGA/DSP, AI for RF, and amateur radio.
 - 🎙️ **Fun Fact:** My signal travels farther than my car — catch me on the CRAC frequencies!
 
 ## 🔬 Research Experience
@@ -31,24 +31,33 @@ I hope to connect with people who share the same curiosity and passion for explo
 - Investigated interference, coexistence, and performance evaluation of WLAN systems in dense and IoT scenarios.
 - Hands-on experience with packet-level analysis and simulation tools (e.g., Wireshark, ns-3, MATLAB, SDR platforms).
 
+## 🐧 Linux Application & Driver Development
+
+- Developed Linux user-space applications in **C/C++ and Python**, including socket programming, multi-threading, IPC, Netlink, and systemd service integration.
+- Hands-on experience with **Linux kernel modules and device drivers**: character devices, platform drivers, device tree, GPIO/I2C/SPI/UART subsystems, interrupt handling, and kernel synchronization.
+- Worked with **SDR and wireless hardware on Linux**: libusb/SoapySDR/UHD user-space interfaces, USB device drivers, and packet capture/injection via raw sockets and nl80211.
+- Familiar with the **mac80211/cfg80211** framework, network device drivers, and the Linux networking stack for WLAN/IoT gateway applications.
+- Comfortable with **GCC/Clang, Make/CMake, GDB, strace, perf, ftrace, QEMU**, and cross-compilation toolchains for embedded Linux.
+
 ## 🛠 Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
-| **Wireless Protocols** | 3GPP LTE/5G NR (RRC, NAS, PDCP, RLC, MAC, PHY), IEEE 802.11 a/b/g/n/ac/ax, IoT Protocols |
+| **Wireless Protocols** | 3GPP LTE/5G NR (RRC, NAS, PDCP, RLC, MAC, PHY), IEEE 802.11a/b/g/n/ac/ax, IoT Protocols |
+| **Linux** | User-space apps, kernel modules, device tree, mac80211/cfg80211, embedded Linux |
 | **AI / ML** | PyTorch, TensorFlow, Audio Signal Processing |
 | **Core** | Python, C++, MATLAB, Mathematics |
-| **Tools** | Wireshark, ns-3, SDR platforms, Git |
+| **Tools** | Wireshark, ns-3, SDR platforms, Git, GDB, strace, perf, ftrace, QEMU |
 | **Interests** | Business Management, Investment, Tech History |
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-stats.com/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=washingtonxr&show_icons=true&locale=en" alt="washingtonxr GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=washingtonxr&locale=en" alt="washingtonxr GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=washingtonxr&locale=en" alt="washingtonxr GitHub streak" />
 </p>
 
 ## 📬 Connect with Me
